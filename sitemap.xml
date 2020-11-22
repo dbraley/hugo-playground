@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>/hugo-playground/</loc>
     <lastmod>2020-11-21T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>/hugo-playground/about/</loc>
     <lastmod>2020-11-21T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/archive/</loc>
+    <loc>/hugo-playground/archive/</loc>
     <lastmod>2020-11-21T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/hugo-playground/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>/hugo-playground/posts/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/series/</loc>
+    <loc>/hugo-playground/series/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/hugo-playground/tags/</loc>
   </url>
   
 </urlset>

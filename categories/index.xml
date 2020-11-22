@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on David Braley</title>
-    <link>http://example.org/categories/</link>
+    <link>/hugo-playground/categories/</link>
     <description>Recent content in Categories on David Braley</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy;{year}, All Rights Reserved</copyright><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright><atom:link href="/hugo-playground/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
