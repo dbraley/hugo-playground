@@ -1,4 +1,4 @@
-baseURL = "http://example.org"
+baseURL = "https://dbraley.github.io/hugo-playground/"
 title = "Hugo Zzo Theme"
 theme = "zzo"
 
@@ -12,7 +12,7 @@ buildFuture = true
 copyright = "&copy;{year}, All Rights Reserved"
 timeout = 10000
 enableEmoji = true
-paginate = 13
+paginate = 10
 rssLimit = 100
 
 enableGitInfo = false
@@ -51,3 +51,4 @@ googleAnalytics = ""
   category = "categories"
   tag = "tags"
   series = "series"
+  
