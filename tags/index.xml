@@ -7,13 +7,13 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on David Braley</title>
-    <link>http://example.org/tags/</link>
+    <link>https://dbraley.github.io/hugo-playground/tags/</link>
     <description>Recent content in Tags on David Braley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://dbraley.github.io/hugo-playground/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     

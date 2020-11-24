@@ -7,14 +7,14 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>David Braley</title>
-    <link>http://example.org/</link>
+    <link>https://dbraley.github.io/hugo-playground/</link>
     <description>Recent content on David Braley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 21 Nov 2020 12:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://dbraley.github.io/hugo-playground/index.xml" rel="self" type="application/rss+xml" />
     
     
     
